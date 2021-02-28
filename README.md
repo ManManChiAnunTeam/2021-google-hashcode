@@ -7,7 +7,7 @@
 
 ![google hashcode korea 14th](https://user-images.githubusercontent.com/52124204/109426980-97955880-7a33-11eb-9345-b427cd07f05c.png)
 
-Score : 9600447
+Score : 9,567,451
 
 275th place in Hashcode Online Qualifications
 
